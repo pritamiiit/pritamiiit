@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pritamiiit
 - 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning Integrated Post Graduation in Information Technology
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently a MeitY research scholar
+- 💞️ I’m looking to collaborate on Artificial Intelligence
 - 📫 How to reach me pritam23@ieee.org
 
 <!---
